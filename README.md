@@ -58,17 +58,14 @@
 
 <a href="https://www.linkedin.com/in/cristian-castano23/"><img alt="LinkedIn" src="https://img.shields.io/badge/Cristian--Casta%C3%B1o-blue?style=plastic&logo=linkedin"></a>
 
-<a href="https://www.instagram.com/i__disbalance/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-i__disbalance-black?style=flat-square&logo=instagram"></a>
-
-<a href="mailto:shivammalpani111@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-shivammalpani111@gmail.com-blue?style=flat-square&logo=gmail"></a>
+<a href="mailto:cscastano9@misena.edu.co"><img alt="Email" src="https://img.shields.io/badge/cscastano9%40misena.edu.co-red?style=plastic&logo=gmail&logoColor=white"></a>
 
 </p>
 
 
 
+<a href="https://github.com/CristianSk23"><img alt="Email" src="https://img.shields.io/github/followers/CristianSk23"></a>
 
-
-![Visitor count](https://visitor-badge.laobi.icu/badge?page_id=shivam0110.shivam0110)   <img src="https://media.giphy.com/media/dxn6fRlTIShoeBr69N/giphy.gif" width="30">
 
 
 

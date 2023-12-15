@@ -28,7 +28,7 @@
 
 - 🖥 &nbsp; Illustrator | Photoshop | Premiere | After Effects | Figma | AdobeXD |
   
-- 🛢 &nbsp; MySQL | MongoDB |
+- 🛢 &nbsp; MySQL | PostgreSQL |
   
 - 🔧 &nbsp; Github |
 <!--
@@ -37,15 +37,6 @@
 
 
 -->
-
-
-
-<h3>🛠 To Learn</h3>
-
-- 🔧 &nbsp; Java | Docker🐳 | Firebase | flask
-
-<hr>
-
 
 
 <br/><br/>

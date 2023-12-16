@@ -20,7 +20,7 @@
 
 
 
-- 💻 &nbsp;  JavaScript | ExpressJS |
+- 💻 &nbsp;  JavaScript | ExpressJS | NodeJs
 
 - 🌐 &nbsp; HTML | CSS | JavaScript | Bootstrap | ReactJS |
 

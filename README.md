@@ -20,7 +20,7 @@
 
 
 
-- 💻 &nbsp;  JavaScript | ExpressJS | NodeJs
+- 💻 &nbsp;  JavaScript <img alt="Javascript" src="https://img.shields.io/badge/logo-javascript-blue?logo=javascript"> | ExpressJS | NodeJs   
 
 - 🌐 &nbsp; HTML | CSS | JavaScript | Bootstrap | ReactJS |
 

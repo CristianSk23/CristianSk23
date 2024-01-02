@@ -20,17 +20,17 @@
 
 
 
-- 💻 &nbsp;  JavaScript <img alt="Javascript" src="https://img.shields.io/badge/logo-javascript-blue?logo=javascript"> | ExpressJS | NodeJs   
+- 💻 &nbsp; ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript) | ![Express](https://img.shields.io/badge/-Express-333333?style=flat&logo=express) | ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
 
-- 🌐 &nbsp; HTML | CSS | JavaScript | Bootstrap | ReactJS |
+- 🌐 &nbsp; ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5) | ![CSS3](https://img.shields.io/badge/-CSS3-333333?style=flat&logo=CSS3&logoColor=1572B6)  | <img alt="Boostrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">    ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript) | ![Tailwind CSS](https://img.shields.io/badge/-Tailwind-333333?style=flat&logo=tailwindCSS) | ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react) |
 
-- 🎮 &nbsp; Unity | C# | 
+- 🎮 &nbsp; Unity |<img alt="C#" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white">
 
 - 🖥 &nbsp; Illustrator | Photoshop | Premiere | After Effects | Figma | AdobeXD |
   
-- 🛢 &nbsp; MySQL | PostgreSQL |
+- 🛢 &nbsp; ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql) | ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=PostgreSQL) |
   
-- 🔧 &nbsp; Github |
+- 🔧 &nbsp; ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git) | ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
 <!--
 
 

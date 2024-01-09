@@ -24,15 +24,15 @@
 
 
 
-- 🌐 &nbsp; ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5) | ![CSS3](https://img.shields.io/badge/-CSS3-333333?style=flat&logo=CSS3&logoColor=1572B6)  | <img alt="Boostrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">    ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript) | ![Tailwind CSS](https://img.shields.io/badge/-Tailwind-333333?style=flat&logo=tailwindCSS) | ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react) |
+- 🌐 &nbsp; ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5) | ![CSS3](https://img.shields.io/badge/-CSS3-333333?style=flat&logo=CSS3&logoColor=1572B6)  | ![Static Badge](https://img.shields.io/badge/Boostrap-%23333333?style=flat&logo=bootstrap) | ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript) | ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react) |
 
   
 
-- 🎮 &nbsp; <img alt="Unity" src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white"> | <img alt="C#" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white">
-
+- 🎮 &nbsp; ![Static Badge](https://img.shields.io/badge/Unity-%23333333?style=flat&logo=unity) | ![Static Badge](https://img.shields.io/badge/C%23-%23333333?style=flat&logo=csharp)
 
   
-- 🖥 &nbsp; <img alt="Premiere" src="https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white"> | <img alt="Photoshop" src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black">  | <img alt="Illustrator" src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white"> | <img alt="Figma" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"> |  <img alt="AdobeXd" src="https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6"> | <img alt="Canva" src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white">
+- 🖥 &nbsp; ![Static Badge](https://img.shields.io/badge/Adobe%20Premiere%20Pro-%23333333?style=flat&logo=adobepremierepro) | ![Static Badge](https://img.shields.io/badge/Adobe%20After%20Effects-%23333333?style=flat&logo=adobeaftereffects) | ![Static Badge](https://img.shields.io/badge/Adobe%20Photoshop-%23333333?style=flat&logo=adobephotoshop) | ![Static Badge](https://img.shields.io/badge/Adobe%20illustrator-%23333333?style=flat&logo=adobeillustrator) |  ![Static Badge](https://img.shields.io/badge/Adobe%20Xd-%23333333?style=flat&logo=adobexd) | ![Static Badge](https://img.shields.io/badge/Figma-%23333333?style=flat&logo=figma) | ![Static Badge](https://img.shields.io/badge/Canva-%23333333?style=flat&logo=canva)
+
   
 
   

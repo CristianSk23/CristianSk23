@@ -64,7 +64,7 @@
 
 <p align="center">
 
-<a href="https://portafolio-cristiansk23s-projects.vercel.app/"><img alt="Website" src="https://img.shields.io/badge/portafolio--cristiansk23s-gray?style=plastic&logo=microsoftedge&logoColor=%230078D7"></a> <a href="https://www.linkedin.com/in/cristian-castano23/"><img alt="LinkedIn" src="https://img.shields.io/badge/Cristian--Casta%C3%B1o-blue?style=plastic&logo=linkedin"></a> <a href="mailto:cristian200127@gmail.com"><img alt="Email" src="https://img.shields.io/badge/cscastano9%40misena.edu.co-red?style=plastic&logo=gmail&logoColor=white"></a>
+<a href="https://portafolio-cristiansk23s-projects.vercel.app/"><img alt="Website" src="https://img.shields.io/badge/portafolio--cristiansk23s-gray?style=plastic&logo=microsoftedge&logoColor=%230078D7"></a> <a href="https://www.linkedin.com/in/cristian-castano23/"><img alt="LinkedIn" src="https://img.shields.io/badge/Cristian--Casta%C3%B1o-blue?style=plastic&logo=linkedin"></a> <a href="mailto:cristian200127@gmail.com"><img alt="Email" src="https://img.shields.io/badge/cristian200127@gmail.com-red?style=plastic&logo=gmail&logoColor=white"></a>
 
 </p>
 
